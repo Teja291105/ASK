@@ -55,10 +55,8 @@ plt.show()
 # Output Waveform
 
 ![image](https://github.com/user-attachments/assets/d9fe262f-fda3-4744-95c3-25d0a4132a06)
-# Results
-```
+# Results:
 Thus, A python program is simulated and visualized for Amplitude Shift Keying (ASK) modulation and demodulation using a Butterworth low-pass filter for binary data.
-```
 # Hardware experiment output waveform.
 
 ![WhatsApp Image 2025-04-29 at 19 45 41_2dbd4702](https://github.com/user-attachments/assets/19bd4916-495b-4815-8dc5-63eff79cc0c3)
